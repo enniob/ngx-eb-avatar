@@ -35,4 +35,4 @@ Add the following to your template:
 | bgColor | string |
 | fontColor | string |
 
-** bgColor and fontColor** use HTML Hex color codes with the # sign.
+**bgColor and fontColor** use HTML Hex color codes with the # sign.
