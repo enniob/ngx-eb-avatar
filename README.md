@@ -26,11 +26,13 @@ Add the following to your template:
 ```
 ## Configuration
 
-| option | type | default |
-| ------ | ---- | ------- |
-| name | string | none |
-| shadow | boolean | none |
-| width | number | none |
-| height | number | none |
-| bgColor | string | none |
-| fontColor | string | none |
+| option | type | 
+| ------ | ---- | 
+| name | string | 
+| shadow | boolean |
+| width | number |
+| height | number |
+| bgColor | string |
+| fontColor | string |
+
+** bgColor and fontColor** use HTML Hex color codes with the # sign.
