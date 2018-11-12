@@ -8,6 +8,13 @@ npm install --save ngx-eb-avatar
 ```
 
 ## Usage
+Import the main moduel:
+
+```javascript
+import { NgxEbAvatarModule } from 'ngx-eb-avatar';
+```
+Add the following to your template:
+
 ``` html
     <ngx-eb-avatar name="Your Name" 
                   [shadow]="true" 
@@ -17,3 +24,12 @@ npm install --save ngx-eb-avatar
                   fontColor="FFFFFF">
     </ngx-eb-avatar>
 ```
+## Configuration
+
+| option | type | default |
+| name | string | none |
+| shadow | boolean | none |
+| width | number | none |
+| height | number | none |
+| bgColor | string | none |
+| fontColor | string | none |
