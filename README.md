@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/ngx-eb-avatar.svg)](https://badge.fury.io/js/ngx-eb-avatar)
 # ngx-eb-avatar
 ngx-eb-avatar is a lightweight avatar generator component.
 
