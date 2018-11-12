@@ -1,6 +1,21 @@
 {
-  "name": "ngx-avatar",
-  "version": "0.0.0",
+  "name": "ngx-eb-avatar",
+  "version": "0.0.1",
+  "description": "a lightweight avatar generator component",
+  "author": "Ennio Bozzetti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enniob/ngx-eb-avatar"
+  },
+  "bugs": {
+    "url": "https://github.com/enniob/ngx-eb-avatar/issues"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "avatar"
+  ],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

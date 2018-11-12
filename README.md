@@ -1,5 +1,5 @@
 # ngx-eb-avatar
-ngx-eb-avatar is a lightweight avatar component
+ngx-eb-avatar is a lightweight avatar generator component.
 
 ## Usage
 ``` html
