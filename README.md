@@ -2,7 +2,7 @@
 ngx-eb-avatar is a lightweight avatar component
 
 ## Usage
-```
+``` html
     <ngx-eb-avatar name="Your Name" 
                   [shadow]="true" 
                   width="50" 
