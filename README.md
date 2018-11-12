@@ -27,6 +27,7 @@ Add the following to your template:
 ## Configuration
 
 | option | type | default |
+| ------ | ---- | ------- |
 | name | string | none |
 | shadow | boolean | none |
 | width | number | none |
