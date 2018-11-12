@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-eb-avatar": [
+        "dist/ngx-eb-avatar"
+      ],
+      "ngx-eb-avatar/*": [
+        "dist/ngx-eb-avatar/*"
+      ]
+    }
   }
 }
