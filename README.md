@@ -3,7 +3,7 @@
 ngx-eb-avatar is a lightweight avatar generator component.
 
 ## Demo
-Check out the [link](https://angular-6t47u2.stackblitz.io) for a live demo.
+Check out the [link](https://stackblitz.com/edit/angular-6t47u2) for a live demo.
 ## Install
 ```shell
 npm install --save ngx-eb-avatar
