@@ -47,6 +47,7 @@ export class NgxEbAvatarComponent implements OnInit {
     canvas.height = height;
 
     let ctx = canvas.getContext("2d");
+    
     ctx.fillStyle = "#" + bgColor;
     ctx.fillRect(0, 0, width, height);
 
